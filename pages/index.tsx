@@ -63,7 +63,7 @@ const Home: NextPage = () => {
       )
     } else {
       return (
-        <div style={{textAlign: "center", marginBottom:"50px"}}>You don't have any NFT</div>
+        <div style={{textAlign: "center", marginBottom:"50px"}}>{"You don't have any NFT"}</div>
       )
     }
 

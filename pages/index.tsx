@@ -80,7 +80,7 @@ const Home: NextPage = () => {
       
       <div className={styles.header}>
         <h1>NFT viewer</h1>
-        <div>Powered by <a href="https://www.ankr.com/advanced-api/" target="_blank">Ankr Advanced APIs</a></div>
+        <div>Powered by <a href="https://www.ankr.com/advanced-api/">Ankr Advanced APIs</a></div>
       </div>
 
       <div className={styles.form}>

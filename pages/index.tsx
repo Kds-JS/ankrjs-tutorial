@@ -4,7 +4,7 @@ import type { NextPage } from 'next';
 import { useEffect, useState } from 'react';
 
 import { Nft } from '@ankr.com/ankr.js/dist/types';
-import { getNfts } from '../Utils/utils';
+import { getNfts } from '../utils';
 import { ethers } from 'ethers';
 
 // icons
